@@ -7,7 +7,14 @@ A command-line tool to help pharmacy students sanely navigate the ASHP Post-Matc
 * Run straight from the terminal, avoid having to dig through the PhorCAS website
 
 ## Screenshots
-TODO
+First run:
+
+![First Run](/assets/1st.png?raw=true "First Run")
+
+
+Subsequent runs:
+
+![Subsequent Runs](/assets/2nd.png?raw=true "Subsequent Runs")
 
 ## Requirements
 * bash shell - standard on Mac OS X & Linux. Windows users will need Bash for Windows (or MinGW or Cygwin)
