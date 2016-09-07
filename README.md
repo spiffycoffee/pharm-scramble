@@ -7,13 +7,11 @@ A command-line tool to help pharmacy students sanely navigate the ASHP Post-Matc
 * Run straight from the terminal, avoid having to dig through the PhorCAS website
 
 ## Screenshots
-First run:
-
+First run:  
 ![First Run](/assets/1st.png?raw=true "First Run")
 
 
-Subsequent runs:
-
+Subsequent runs:  
 ![Subsequent Runs](/assets/2nd.png?raw=true "Subsequent Runs")
 
 ## Requirements
@@ -40,5 +38,5 @@ obsolete, but I applaud it for being the saner and kinder solution to unmatched 
 into the PhorCAS website.
 * Run ```./grab_data.sh``` repeatedly to check the PhorCAS site.
 
-(To run a demo, copy the sample data (input.json & previous.json) into the folder with the scripts. Run the python script directly
+(To run a demo, copy the sample data (input.json & previous.json) into the folder with the scripts. Run the python script directly with
 ```python parse.py```)
